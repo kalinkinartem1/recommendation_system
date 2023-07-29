@@ -2,7 +2,7 @@
 numpy == 1.24.3
 pandas == 2.0.1
 psycopg2-binary-2.9.6
-loguru==0.7.0
+
 
 alembic==1.7.6
 fastapi==0.73.0
@@ -13,3 +13,4 @@ requests
 catboost==1.1.1
 
 tqdm==4.64.1
+loguru==0.7.0

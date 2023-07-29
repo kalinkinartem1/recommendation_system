@@ -23,6 +23,7 @@ import datetime as dt
 # чтобы посмотреть доку
 # http://127.0.0.1:8899/docs
 
+
 # запуск сервера
 # запускать нужно из директории где находится app
 # uvicorn lesson_22_6_new_features:app --reload --port 8000
